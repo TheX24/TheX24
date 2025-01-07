@@ -17,7 +17,7 @@ Hello! I'm TX24, a gamer with a keen interest in software and hardware. I enjoy 
 ### Project 2: R6 Recoil program
 - **Description:** a python script i wrote cuz im ass at the recoil (no shame)
 - **Technologies:** python and chatgpt
-- **Repository:** [GitHub Link]([https://github.com/TheX24/r6recoil])
+- **Repository:** [GitHub Link](https://github.com/TheX24/r6recoil)
 
 ## GitHub Stats
 
