@@ -14,6 +14,11 @@ Hello! I'm TX24, a gamer with a keen interest in software and hardware. I enjoy 
 - **Technologies:** text editing, button clicking, reading
 - **Repository:** [GitHub Link](https://github.com/TheX24/mc_server_guide)
 
+### Project 2: R6 Recoil program
+- **Description:** a python script i wrote cuz im ass at the recoil (no shame)
+- **Technologies:** python and chatgpt
+- **Repository:** [GitHub Link]([https://github.com/TheX24/r6recoil])
+
 ## GitHub Stats
 
 ![TheX24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheX24&show_icons=true&theme=radical)
