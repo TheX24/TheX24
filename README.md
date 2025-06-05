@@ -9,7 +9,7 @@ Hello! I'm TX24, a gamer with a keen interest in software and hardware. I enjoy 
 ## Projects
 
 ### Project 1: 6Recoil
-- **Description:** a free python script to control the recoil
+- **Description:** a python program to control the recoil 
 - **Technologies:** python and google
 - **Repository:** [GitHub Link](https://github.com/TheX24/6recoil)
 
