@@ -14,8 +14,8 @@ Hello! I'm TX24, a gamer with a keen interest in software and hardware. I enjoy 
 - **Repository:** [GitHub Link](https://github.com/TheX24/6recoil)
 
 ### Project 2: Lyrprep
-- **Description:** a python program to prepare the lyrics
-- **Technologies:** python and cascade
+- **Description:** a website to prepare the lyrics
+- **Technologies:** html5, typescript, css, pnpm, vite, docker
 - **Repository:** [GitHub Link](https://github.com/TheX24/lyrprep)
 
 ## GitHub Stats
