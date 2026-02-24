@@ -1,23 +1,35 @@
-# Welcome to my GitHub Profile!
+# Welcome to my GitHub 👋
 
 ## About Me
 
-Hello! I'm TX24, a gamer with a keen interest in software and hardware. I enjoy tinkering with what I have, from random old computers to fixing programs, and continuously strive to improve my skills and knowledge.
+I'm **TX24**, a student from Italy into competitive PC gaming, low-level optimization, and tooling around games and input devices. I like squeezing hardware for every last frame, reverse‑engineering “annoying” limitations, and building small but sharp utilities.
 
-- 🌐 **Website:** [TX24's Socials](https://guns.lol/tx24/)
+- 🎮 Main games: Rainbow Six Siege, Roblox, Minecraft
+- 🧠 Focus: performance, automation, recoil/input tooling, and workflow polish
+- 🌐 Website / socials: [tx24.is-a.dev](https://tx24.is-a.dev)
 
-## Projects
+## Tech Stack
 
-### Project 1: 6Recoil
-- **Description:** a python program to control the recoil 
-- **Technologies:** python and google
-- **Repository:** [GitHub Link](https://github.com/TheX24/6recoil)
+| Area        | Tools / Tech |
+|------------|--------------|
+| Languages  | Python, JavaScript, TypeScript |
+| Frontend   | HTML5, CSS, Vite, React/TS (when needed) |
+| Tooling    | Docker, pnpm, Git, GitHub Actions |
+| Domains    | Input emulation, Windows tooling, small GUIs, workflow scripts |
 
-### Project 2: Lyrprep
-- **Description:** a website to prepare the lyrics
-- **Technologies:** html5, typescript, css, pnpm, vite, docker
-- **Repository:** [GitHub Link](https://github.com/TheX24/lyrprep)
+## Featured Projects
 
-## GitHub Stats
+### 🎯 6Recoil
+- **What it is:** Advanced recoil control tool for Rainbow Six Siege with dual‑weapon support, SWD logic, and anti‑detection randomness.
+- **Stack:** Python, tkinter, pynput, pydirectinput
+- **Repo:** [TheX24/6Recoil](https://github.com/TheX24/6Recoil)
 
-![TheX24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheX24&show_icons=true&theme=radical)
+### 🎵 Lyrprep
+- **What it is:** Web app to prep and clean up song lyrics for syncing / overlays.
+- **Stack:** HTML5, TypeScript, CSS, pnpm, Vite, Docker
+- **Repo:** [TheX24/lyrprep](https://github.com/TheX24/lyrprep)
+
+### 🎮 DD2RL
+- **What it is:** DrunkDeer G75 keyboard → controller emulator for analog‑style movement and custom bindings.
+- **Stack:** Python, low-level input handling, Windows HID tooling
+- **Repo:** [TheX24/DD2RL](https://github.com/TheX24/DD2RL)
