@@ -25,7 +25,7 @@ I'm **TX24**, a student from Italy into competitive PC gaming, low-level optimiz
 - **Repo:** [TheX24/6Recoil](https://github.com/TheX24/6Recoil)
 
 ### 🎵 Lyrprep
-- **What it is:** Web app to prep and clean up song lyrics for syncing / overlays.
+- **What it is:** Web app to prep and clean up song lyrics for syncing.
 - **Stack:** HTML5, TypeScript, CSS, pnpm, Vite, Docker
 - **Repo:** [TheX24/lyrprep](https://github.com/TheX24/lyrprep)
 
@@ -33,3 +33,8 @@ I'm **TX24**, a student from Italy into competitive PC gaming, low-level optimiz
 - **What it is:** DrunkDeer G75 keyboard → controller emulator for analog‑style movement and custom bindings.
 - **Stack:** Python, low-level input handling, Windows HID tooling
 - **Repo:** [TheX24/DD2RL](https://github.com/TheX24/DD2RL)
+
+### 🎵 Spicy Player
+- **What it is:** Offline Android music player featuring a port of the [Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics) rendering engine.
+- **Stack:** Jetpack Compose (Canvas), Media3 ExoPlayer, Kotlin, Custom Physics Engine
+- **Repo:** [TheX24/Spicy-Player](https://github.com/TheX24/Spicy-Player)
