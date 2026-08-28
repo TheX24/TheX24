@@ -14,11 +14,6 @@ I'm TX24, and I spend my time coding, gaming, and syncing lyrics for Spicy Playe
 
 ## 🚀 Featured Projects
 
-### 🎵 [Lyrprep](https://github.com/TheX24/Lyrprep)
-
-- **What it is:** Web application for formatting and preprocessing song lyrics for [Spicy Lyrics](https://spicylyrics.org).
-- **Stack:** HTML5, TypeScript, CSS, Vite, Docker
-
 ### 🎵 [Spicy Player](https://github.com/TheX24/Spicy-Player)
 
 - **What it is:** Offline Android music player with a port of Spicy Lyrics.
