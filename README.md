@@ -14,10 +14,12 @@ I'm TX24, and I spend my time coding, gaming, and syncing lyrics for Spicy Lyric
 
 ## Featured Projects
 
-### 🎵 [Spicy Player](https://github.com/TheX24/Spicy-Player)
+### 🎵 [Spicy Player](https://github.com/TheX24/spicy-player)
 
-- **What it is:** Offline Android music player with a port of Spicy Lyrics.
-- **Stack:** Kotlin, Jetpack Compose, Media3 ExoPlayer
+- **What it is:** Android lyrics app with a port of Spicy Lyrics' word-synced lyrics, for whatever is playing in Spotify, YouTube Music or any other app.
+- **Stack:** Kotlin, Jetpack Compose, Android MediaSession
+- Looking for the old offline music player? It's at [spicy-player-old](https://github.com/TheX24/spicy-player-old).
+
 ---
 
 ## Go to [my Sitee](https://tx24.dev/) for more info.
